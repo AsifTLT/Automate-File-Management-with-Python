@@ -1,0 +1,4 @@
+This project basically means that you often download a lot of images, music videos, 
+then they are jammed in the download folder at once.
+ If you run this software once, all images, videos, music from your downloads will go to a separate folder, 
+ you just need a directory. It should be selected
